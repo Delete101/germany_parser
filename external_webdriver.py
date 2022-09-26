@@ -11,7 +11,7 @@ def solvecaptcha():
 
     solver = imagecaptcha()
     solver.set_verbose(1)
-    solver.set_key("e479450cb9c402afc9ac5f8ff4d29ed0")
+    solver.set_key("KEY")
 
     # Specify softId to earn 10% commission with your app.
     # Get your softId here: https://anti-captcha.com/clients/tools/devcenter
